@@ -1,0 +1,4 @@
+rref.py reads in a matrix from standard in and generates LaTeX code
+which shows the solution. If called with the -r n option, it takes a
+matrix of n rows; otherwise, the first number read from standard in will
+be interpreted as the number of rows. Examples are in /in/.
